@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Coral+Pixels&display=swap');
+
+* {
+    font-family: "Coral Pixels", sans;
+}
+
+.color1 {
+    background-color: rgb(60, 66, 238);
+}
+
+.color2 {
+    background-color: rgb(49, 226, 196);
+}
+
+.color3 {
+    background-color: rgb(233, 233, 50);
+}
+
+.color4 {
+    background-color: rgb(32, 52, 184);
+}
